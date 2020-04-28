@@ -19,5 +19,5 @@ if($result){
 			window.location='select.php';
 			</script>";
 }
-mysqli_close($conn);
+mysqli_close($conn);55555
 ?>
