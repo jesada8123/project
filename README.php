@@ -125,4 +125,4 @@ $paginationCtrls .= ' &nbsp; &nbsp; <a href="'.$_SERVER['PHP_SELF'].'?pn='.$next
 	https://www.sourcecodester.com/tutorials/php/11606/simple-pagination-using-phpmysqli.html
 
 	-->
-	<a href="insert_form.php"><center>เพิ่มข้อมูล</center></a>
+	<a href="insert_form.php"><center>เพิ่มข้อมูล</center></a>5555
