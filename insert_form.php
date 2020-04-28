@@ -21,7 +21,7 @@
 		<tr><td><b></td>
 		<td> <input type="submit" value="บันทึก">
 			 <input type="reset" value="ยกเลิก"><br> </td></tr>
-	</table> <br>
+	</table> <br> <BR>
 </form>
 </body>
 </html>
